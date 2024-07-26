@@ -54,8 +54,7 @@
     "lint": "eslint src --ext .ts --ignore-path .gitignore",
     "build": "del-cli lib && tsc",
     "prepublishOnly": "npm run build",
-    "postversion": "git push --follow-tags && npm publish",
-    "prepare": "husky install"
+    "postversion": "git push --follow-tags && npm publish"
   },
   "dependencies": {
     "steno": "^4.0.2"

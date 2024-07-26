@@ -1,3 +1,23 @@
+# 클론 목적
+
+- 사내 교육용
+- TypeScript 교육 및 Storage API 교육
+- ...
+
+## 관련 모듈
+
+- typescript 
+- tsx
+- ts-node , @types/node
+- express , @types/express
+- lodash  , @types/lodash
+- rimraf , del-cli
+- ...
+
+
+---
+
+
 # lowdb [![](http://img.shields.io/npm/dm/lowdb.svg?style=flat)](https://www.npmjs.org/package/lowdb) [![Node.js CI](https://github.com/typicode/lowdb/actions/workflows/node.js.yml/badge.svg)](https://github.com/typicode/lowdb/actions/workflows/node.js.yml)
 
 > Simple to use type-safe local JSON database 🦉
